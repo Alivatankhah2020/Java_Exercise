@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Hi !");
         System.out.println(" ");
+        System.out.println("this is the first change");
     }
 }
